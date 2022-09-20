@@ -1,5 +1,4 @@
 set wrap
-set showbreak=+++
 set showmatch
 
 set hlsearch
